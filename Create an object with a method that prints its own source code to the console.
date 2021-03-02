@@ -1,0 +1,8 @@
+const testobj = {
+  firstName: "Rohit",
+  lastName: "Dolui",
+  age: 25,
+  printsource : function() {
+    console.log(printsource.toString()); 
+  }
+};
